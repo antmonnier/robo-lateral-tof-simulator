@@ -2,6 +2,8 @@
 
 This project is a web-based simulator for a robot that follows a wall using PID (Proportional-Integral-Derivative) control. It allows users to experiment with different PID parameters, motor characteristics, and sensor perturbations to understand how these factors affect the robot's ability to maintain a constant distance from the wall.
 
+[Interactive Demo](https://robot-lateral-tof-simulator.netlify.app/)
+
 ## Features
 
 - Interactive simulation of a wall-following robot
